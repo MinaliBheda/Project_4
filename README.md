@@ -87,7 +87,6 @@
 
 
 ![Alt text](<Screen Shot 2023-08-28 at 9.31.49 pm.png>)
-/Users/minali.pinto/Desktop/Project_4/ScreenShots/Screen Shot 2023-08-27 at 2.36.12 pm.png
 
 ![Alt text](<Screen Shot 2023-08-28 at 9.32.04 pm.png>)
 
